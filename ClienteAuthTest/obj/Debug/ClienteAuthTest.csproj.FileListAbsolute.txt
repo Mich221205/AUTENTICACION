@@ -1,0 +1,23 @@
+C:\Users\edtlu\OneDrive - Colegio Universitario de Cartago\Documentos\Visual Studio 2022\ClienteAuthTest\bin\Debug\ClienteAuthTest.exe.config
+C:\Users\edtlu\OneDrive - Colegio Universitario de Cartago\Documentos\Visual Studio 2022\ClienteAuthTest\bin\Debug\ClienteAuthTest.exe
+C:\Users\edtlu\OneDrive - Colegio Universitario de Cartago\Documentos\Visual Studio 2022\ClienteAuthTest\bin\Debug\ClienteAuthTest.pdb
+C:\Users\edtlu\OneDrive - Colegio Universitario de Cartago\Documentos\Visual Studio 2022\ClienteAuthTest\obj\Debug\ClienteAuthTest.csproj.AssemblyReference.cache
+C:\Users\edtlu\OneDrive - Colegio Universitario de Cartago\Documentos\Visual Studio 2022\ClienteAuthTest\obj\Debug\ClienteAuthTest.csproj.CoreCompileInputs.cache
+C:\Users\edtlu\OneDrive - Colegio Universitario de Cartago\Documentos\Visual Studio 2022\ClienteAuthTest\obj\Debug\ClienteAuthTest.exe
+C:\Users\edtlu\OneDrive - Colegio Universitario de Cartago\Documentos\Visual Studio 2022\ClienteAuthTest\obj\Debug\ClienteAuthTest.pdb
+C:\Users\edtlu\OneDrive - Colegio Universitario de Cartago\Documentos\Visual Studio 2022\ClienteAuthTest\obj\Debug\ClienteAuthTest.exe.config
+C:\Users\Michel\Downloads\ClienteAuthTest\bin\Debug\ClienteAuthTest.exe.config
+C:\Users\Michel\Downloads\ClienteAuthTest\bin\Debug\ClienteAuthTest.exe
+C:\Users\Michel\Downloads\ClienteAuthTest\bin\Debug\ClienteAuthTest.pdb
+C:\Users\Michel\Downloads\ClienteAuthTest\obj\Debug\ClienteAuthTest.csproj.AssemblyReference.cache
+C:\Users\Michel\Downloads\ClienteAuthTest\obj\Debug\ClienteAuthTest.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Downloads\ClienteAuthTest\obj\Debug\ClienteAuthTest.exe
+C:\Users\Michel\Downloads\ClienteAuthTest\obj\Debug\ClienteAuthTest.pdb
+C:\Users\Michel\Documents\Michel\CUC\Cuatrimestre 5\programacion IV\PROYECTO_II\AUTENTICACION\ClienteAuthTest\bin\Debug\ClienteAuthTest.exe.config
+C:\Users\Michel\Documents\Michel\CUC\Cuatrimestre 5\programacion IV\PROYECTO_II\AUTENTICACION\ClienteAuthTest\bin\Debug\ClienteAuthTest.exe
+C:\Users\Michel\Documents\Michel\CUC\Cuatrimestre 5\programacion IV\PROYECTO_II\AUTENTICACION\ClienteAuthTest\bin\Debug\ClienteAuthTest.pdb
+C:\Users\Michel\Documents\Michel\CUC\Cuatrimestre 5\programacion IV\PROYECTO_II\AUTENTICACION\ClienteAuthTest\obj\Debug\ClienteAuthTest.csproj.AssemblyReference.cache
+C:\Users\Michel\Documents\Michel\CUC\Cuatrimestre 5\programacion IV\PROYECTO_II\AUTENTICACION\ClienteAuthTest\obj\Debug\ClienteAuthTest.exe.config
+C:\Users\Michel\Documents\Michel\CUC\Cuatrimestre 5\programacion IV\PROYECTO_II\AUTENTICACION\ClienteAuthTest\obj\Debug\ClienteAuthTest.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Documents\Michel\CUC\Cuatrimestre 5\programacion IV\PROYECTO_II\AUTENTICACION\ClienteAuthTest\obj\Debug\ClienteAuthTest.exe
+C:\Users\Michel\Documents\Michel\CUC\Cuatrimestre 5\programacion IV\PROYECTO_II\AUTENTICACION\ClienteAuthTest\obj\Debug\ClienteAuthTest.pdb

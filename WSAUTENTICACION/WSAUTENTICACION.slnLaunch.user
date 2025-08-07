@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": ".",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\ClienteAuthTest\\ClienteAuthTest.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
