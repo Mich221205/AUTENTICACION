@@ -1,4 +1,5 @@
-﻿using System.ServiceModel;
+﻿using System.Collections.Generic;
+using System.ServiceModel;
 
 namespace WSAutenticacion
 {
@@ -10,5 +11,9 @@ namespace WSAutenticacion
 
         [OperationContract]
         AuthResponse RegistrarUsuario(Usuario nuevoUsuario);
+
+        [OperationContract]
+        List<Usuario> ObtenerAdministradores();
+
     }
 }

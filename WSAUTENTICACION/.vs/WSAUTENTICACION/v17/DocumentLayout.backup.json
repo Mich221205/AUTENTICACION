@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Michel\\Documents\\Michel\\CUC\\Cuatrimestre 5\\programacion IV\\PROYECTO_II\\AUTENTICACION\\WSAUTENTICACION\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\Documents\\Michel\\CUC\\Cuatrimestre 5\\programacion IV\\PROYECTO_II\\AUTENTICACION\\WSAUTENTICACION|c:\\users\\michel\\documents\\michel\\cuc\\cuatrimestre 5\\programacion iv\\proyecto_ii\\autenticacion\\wsautenticacion\\app_code\\authservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\Documents\\Michel\\CUC\\Cuatrimestre 5\\programacion IV\\PROYECTO_II\\AUTENTICACION\\WSAUTENTICACION|solutionrelative:app_code\\authservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,24 +53,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthService.svc.cs",
-              "DocumentMoniker": "C:\\Users\\Michel\\Documents\\Michel\\CUC\\Cuatrimestre 5\\programacion IV\\PROYECTO_II\\AUTENTICACION\\WSAUTENTICACION\\App_Code\\AuthService.svc.cs",
-              "RelativeDocumentMoniker": "App_Code\\AuthService.svc.cs",
-              "ToolTip": "C:\\Users\\Michel\\Documents\\Michel\\CUC\\Cuatrimestre 5\\programacion IV\\PROYECTO_II\\AUTENTICACION\\WSAUTENTICACION\\App_Code\\AuthService.svc.cs",
-              "RelativeToolTip": "App_Code\\AuthService.svc.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T17:30:27.965Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         },

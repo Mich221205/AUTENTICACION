@@ -1,5 +1,6 @@
 ﻿using MongoDB.Driver;
 using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
@@ -17,6 +18,13 @@ namespace WSAutenticacion
             var cliente = new MongoClient("mongodb://localhost:27017");
             var db = cliente.GetDatabase("sistema_usuarios1");
             _coleccion = db.GetCollection<Usuario>("usuarios");
+        }
+
+        public List<Usuario> ObtenerAdministradores()
+        {
+            return _coleccion
+                .Find(u => u.tipo == 1) // solo administradores
+                .ToList();
         }
 
         private string Encriptar(string texto)
