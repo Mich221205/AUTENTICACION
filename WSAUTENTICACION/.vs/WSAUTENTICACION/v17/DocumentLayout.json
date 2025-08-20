@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|solutionrelative:app_code\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|c:\\users\\michel\\workspace\\autenticacion\\wsautenticacion\\app_code\\authservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION\\app_code\\authservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|solutionrelative:app_code\\authservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|c:\\users\\michel\\workspace\\autenticacion\\wsautenticacion\\app_code\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION\\app_code\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|solutionrelative:app_code\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -80,7 +80,7 @@
               "RelativeDocumentMoniker": "App_Code\\IAuthService.cs",
               "ToolTip": "C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION\\App_Code\\IAuthService.cs",
               "RelativeToolTip": "App_Code\\IAuthService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAnwA8AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T18:31:21.82Z",
               "EditorCaption": ""
@@ -95,8 +95,7 @@
               "RelativeToolTip": "App_Code\\AuthService.svc.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAmwBYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:31:10.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T18:31:10.687Z"
             },
             {
               "$type": "Document",
@@ -108,8 +107,7 @@
               "RelativeToolTip": "App_Code\\AuthResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T18:30:29.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-16T18:30:29.37Z"
             }
           ]
         },
