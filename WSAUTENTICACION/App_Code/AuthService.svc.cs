@@ -59,11 +59,13 @@ namespace WSAutenticacion
             {
                 Resultado = true,
                 Mensaje = "Exitoso",
-                TipoUsuario = usuario.tipo,  // 1=Empleado, 2=Cliente
+                TipoUsuario = usuario.tipo,         // 1=Empleado, 2=Cliente
                 Nombre = usuario.nombre,
-                Apellido1 = usuario.apellido1
+                Apellido1 = usuario.apellido1,
+                Identificacion = usuario.identificacion   
             };
         }
+
 
         public AuthResponse RegistrarUsuario(Usuario nuevoUsuario)
         {

@@ -8,7 +8,6 @@ public class Usuario
     [BsonId]
     [BsonRepresentation(BsonType.ObjectId)]
     public string _id { get; set; }
-
     [DataMember] public string identificacion { get; set; }
     [DataMember] public string nombre { get; set; }
     [DataMember] public string apellido1 { get; set; }
