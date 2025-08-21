@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|solutionrelative:app_code\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|c:\\users\\michel\\workspace\\autenticacion\\wsautenticacion\\app_code\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION\\app_code\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|solutionrelative:app_code\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|c:\\users\\michel\\workspace\\autenticacion\\wsautenticacion\\app_code\\authservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION\\app_code\\authservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|solutionrelative:app_code\\authservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|c:\\users\\michel\\workspace\\autenticacion\\wsautenticacion\\app_code\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION\\app_code\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3320BC5A-11CF-49E8-9DB7-B1B7D568BE96}|C:\\Users\\Michel\\workspace\\AUTENTICACION\\WSAUTENTICACION|solutionrelative:app_code\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -86,8 +86,7 @@
               "RelativeToolTip": "App_Code\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:04:03.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:04:03.567Z"
             },
             {
               "$type": "Document",
@@ -99,8 +98,7 @@
               "RelativeToolTip": "App_Code\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:04:02.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:04:02.334Z"
             },
             {
               "$type": "Document",
@@ -112,8 +110,7 @@
               "RelativeToolTip": "App_Code\\AuthService.svc.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAArwEAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:04:01.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:04:01.57Z"
             },
             {
               "$type": "Document",
